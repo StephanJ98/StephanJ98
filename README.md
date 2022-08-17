@@ -1,16 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
-
-<head>
-    <style>
-        * {
-            padding: 0;
-            margin: 0;
-            text-align: center;
-        }
-    </style>
-</head>
-
+<html lang="en">
 <body>
     <section>
         <div>
