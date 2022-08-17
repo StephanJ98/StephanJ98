@@ -4,8 +4,8 @@
     <section>
         <div>
             <h1 align="center">Hi 👋, I'm Stéphan Jeandon</h1>
-            <p>I am a student of the computer engineering degree at the University of Vigo in the northwest of Spain.</p>
-            <p>I speak 🇫🇷 🇪🇸 and 🇬🇧</p>
+            <p align="center">I am a student of the computer engineering degree at the University of Vigo in the northwest of Spain.</p>
+            <p align="center">I speak 🇫🇷 🇪🇸 and 🇬🇧</p>
         </div>
         <div align="center">
             <h2>Work with technologies 🚀</h2>
