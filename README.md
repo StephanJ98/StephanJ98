@@ -34,6 +34,10 @@
         </div>
         <br></br>
         <div align="center">
+            More Information on my CV: <a href="https://stephanj98.github.io">stephanj98.github.io</a>
+        </div>
+        <br></br>
+        <div align="center">
             <a href="https://github.com/StephanJ98"><img src="https://img.shields.io/github/followers/StephanJ98.svg?label=GitHub&style=social" alt="GitHub"></a>
             <a href="https://twitter.com/DStephanJ"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDStephanJ"></a>
             <a href="https://www.linkedin.com/in/diegostephanjeandonrodriguez/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
