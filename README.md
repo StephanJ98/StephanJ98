@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 🚀 Hello I'm Diégo Stéphan Jeandon Rodríguez  💫 About Me:
+ 
 🔭 I’m currently a student of the computer engineering degree at the University of Vigo in the northwest of Spain.<br>👯 I’m looking to collaborate on all new technologies of the NodeJs environment.<br>⚡ Fun fact I speak many languages French and Spanish native, Galician (very similar to Portuguese) and English.<br><br>👋 More Information on my CV: stephanj98.github.io
 
 
