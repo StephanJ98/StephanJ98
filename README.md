@@ -14,11 +14,11 @@
 # 📊 GitHub Stats:
 
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=StephanJ98&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact'/>
-  <br>
-  <img src='https://github-readme-stats.vercel.app/api?username=StephanJ98&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true'/>
-  <br>
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=StephanJ98&theme=vue-dark&hide_border=true'/>
+  <br>
+  <img src='https://github-readme-stats.vercel.app/api?username=StephanJ98&border_radius=5&count_private=true&hide=prs&hide_border=true&hide_title=true&locale=en&show_icons=true&show_owner=true&theme=vue-dark'/>
+  <br>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=StephanJ98&border_radius=5&hide_border=true&hide_title=true&langs_count=15&locale=en&show_icons=true&show_owner=true&theme=vue-dark' />
 </div>
 
 ---
