@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student of the computer engineering degree at the University of Vigo in the northwest of Spain.<br>👯 I’m looking to collaborate on all new technologies of the NodeJs environment.<br>⚡ Fun fact I speak many languages, like French and Spanish native, Galician (similar to Portuguese) and English.
+🔭 I’m currently a fullstack NodeJs dev and student of the computer engineering degree at the University of Vigo in the northwest of Spain.<br>👯 I’m looking to collaborate on all new technologies of the NodeJs environment.<br>⚡ Fun fact I speak many languages, like French and Spanish native, Galician (similar to Portuguese) and English.
 
 
 <div align='center'>
